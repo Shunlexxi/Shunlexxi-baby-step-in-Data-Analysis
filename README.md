@@ -1,10 +1,11 @@
 # Shunlexxi-baby-step-in-Data-Analysis
 My Baby Steps in Data Analysis
 
-#Project Name:Finance Report
+# Project Name:
+Finance Report
 
 ---
-#Project Objective: Problem Statement
+# Project Objective: Problem Statement
 1.Percentage of total Discounts by Country
 2.Top products across top 8 countries
 3. Gross Sales by Segment
@@ -18,17 +19,17 @@ My Baby Steps in Data Analysis
 
 ---
 
-#Data Sourcing:
+# Data Sourcing:
 https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Financial%20Sample.xlsx
 
 
 ---
 
-#Data Transformation:
+# Data Transformation:
 None yet
 
 ---
 
-#Recomendation
+# Recomendation
 None yet
 ---

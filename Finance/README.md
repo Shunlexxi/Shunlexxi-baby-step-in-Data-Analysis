@@ -1,8 +1,7 @@
 # Shunlexxi-baby-step-in-Data-Analysis
 My Baby Steps in Data Analysis
 
-# Project Name:
-Finance Report
+# Project Name: Finance Report
 
 ---
 # Project Objective: Problem Statement

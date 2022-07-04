@@ -28,8 +28,8 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 
 # Data Transformation:
 1. Fixed Header
-2.Update Data
-3.Transformed wide data to date and value (2 columns)
+2. Update Data
+3. Transformed wide data to date and value (2 columns)
 4. Data cleaning
 
 ---

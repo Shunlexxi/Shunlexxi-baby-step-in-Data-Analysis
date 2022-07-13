@@ -2,6 +2,7 @@
 ---
 # Project Objective: Problem Statement
 This is a Capstone Project for the Ongoing 30DaysOfLearning - Data Analysis Track.
+
 After looking at the dataset, here are some questions/insight I tried to answer/unrecover;
 1. Yearly, how many plane crash were recorded? How many people were aboard? How many died (fatalities)? How many Survived?
 2. Monthly, how many plane crash were recorded?
@@ -11,7 +12,8 @@ After looking at the dataset, here are some questions/insight I tried to answer/
 6. Number of Crash by Operator.
 7. Number of crash by types.
 
-Metrics
+Metrics:
+
 Number of Crash recorded.
 Number of fatalities recorded.
 Number of passengers aboard recorded.

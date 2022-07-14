@@ -1,3 +1,7 @@
+![1](https://user-images.githubusercontent.com/51166816/179036167-9b283b11-e51a-4219-8d89-741b00b48cbb.png)
+![2](https://user-images.githubusercontent.com/51166816/179036180-c5950987-888c-4449-9625-6a434c050525.png)
+![3](https://user-images.githubusercontent.com/51166816/179036184-4d2353e2-c132-4822-8232-9c2ed0ec76de.png)
+![4](https://user-images.githubusercontent.com/51166816/179036188-a9263a38-5d53-4be4-9ce9-aeb786efdf7f.png)
 ![Airplane Crash - Uncleaned](https://user-images.githubusercontent.com/51166816/179035660-1de6012c-042e-4e5a-af19-2e7ff94c6f61.JPG)
 # Project Name: Airplane Crash Analysis
 ---
